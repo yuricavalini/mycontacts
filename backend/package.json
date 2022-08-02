@@ -1,0 +1,28 @@
+{
+  "name": "mycontacts",
+  "version": "1.0.0",
+  "description": "MyContacts API",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuricavalini/mycontacts.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "API",
+    "Docker",
+    "Postgresql"
+  ],
+  "author": "Yuri Cavalini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuricavalini/mycontacts/issues"
+  },
+  "homepage": "https://github.com/yuricavalini/mycontacts#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.3"
+  }
+}
