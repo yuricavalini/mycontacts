@@ -22,7 +22,13 @@
     "url": "https://github.com/yuricavalini/mycontacts/issues"
   },
   "homepage": "https://github.com/yuricavalini/mycontacts#readme",
+  "engines": {
+    "node": "16.x"
+  },
   "devDependencies": {
+    "eslint": "^8.21.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
     "git-commit-msg-linter": "^4.1.3"
   }
 }
