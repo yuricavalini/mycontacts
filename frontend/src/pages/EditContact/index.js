@@ -1,3 +1,7 @@
+import PageHeader from '../../components/PageHeader';
+
 export default function EditContact() {
-  return 'EditContactpage';
+  return (
+    <PageHeader title="Editar Yuri" />
+  );
 }
