@@ -6,7 +6,7 @@ class ContactsService {
   }
 
   async listContacts(orderBy = 'asc') {
-    return this.httpClient.get(`/contactss?orderBy=${orderBy}`);
+    return this.httpClient.get(`/contacts1?orderBy=${orderBy}`);
   }
 
   async createContact(contact) {
